@@ -1,0 +1,11 @@
+# SpaceX Dashboard Insights
+
+1. KSC LC-39A has the largest number of successful launches, with 10 successful launches.
+
+2. KSC LC-39A has the highest launch success rate, approximately 76.9%.
+
+3. The payload range from 3,000 kg to 4,000 kg has the highest success rate, approximately 72.7%.
+
+4. The payload range from 6,000 kg to 7,000 kg has the lowest success rate, equal to 0%.
+
+5. Booster version B5 has the highest recorded success rate, equal to 100%, although it appears only once in the dataset. Among booster categories with a larger number of launches, FT performs best, with a success rate of approximately 66.7%.
